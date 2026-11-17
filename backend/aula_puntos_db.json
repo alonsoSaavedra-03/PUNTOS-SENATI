@@ -1,0 +1,159 @@
+{
+  "instructor": {
+    "id": "inst-senati-01",
+    "username": "jluque",
+    "name": "Jorge Luque Chambi",
+    "role": "Instructor – Escuela de Tecnologías de la Información",
+    "email": "jluque@senati.pe",
+    "campus": "SENATI · CFP Independencia"
+  },
+  "collections": {
+    "groups": [
+      {
+        "code": "165465",
+        "name": "hg",
+        "period": "2026",
+        "active": true,
+        "id": "49730929-6d5f-4588-b4d8-c1874fc9598c",
+        "updatedAt": "2026-11-14T20:40:09.251",
+        "createdAt": "2026-11-14T20:40:09.251",
+        "syncStatus": "synced"
+      }
+    ],
+    "students": [],
+    "sessions": [],
+    "attendance": [],
+    "activities": [],
+    "participation": [],
+    "audit": [
+      {
+        "id": "aud-seed-01",
+        "entity": "system",
+        "entityId": "seed-senati-2026",
+        "action": "Carga inicial de datos académicos SENATI",
+        "at": "2026-11-10T08:00:00.000"
+      },
+      {
+        "id": "aud-seed-02",
+        "entity": "attendance",
+        "entityId": "ses-202601-01",
+        "action": "Registro de asistencia completado (Grupo 202601 · Sesión 1)",
+        "at": "2026-11-10T08:15:00.000"
+      },
+      {
+        "id": "aud-seed-03",
+        "entity": "participation",
+        "entityId": "part-04",
+        "action": "Asignación de +5 pts en Exposición (CABALLERO HUANAQUIRI)",
+        "at": "2026-11-13T09:10:00.000"
+      },
+      {
+        "id": "aud-srv-1794587526481",
+        "entity": "sync",
+        "entityId": "api-rest",
+        "action": "Sincronización procesada (20 operaciones)",
+        "at": "2026-11-13T11:32:06.410799"
+      },
+      {
+        "id": "aud-srv-1794589307221",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:01:47.003903"
+      },
+      {
+        "id": "aud-srv-1794589315523",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:01:55.518026"
+      },
+      {
+        "id": "aud-srv-1794589324732",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:02:04.716449"
+      },
+      {
+        "id": "aud-srv-1794589847642",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:10:47.624285"
+      },
+      {
+        "id": "aud-srv-1794590097956",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (2 operaciones)",
+        "at": "2026-11-13T12:14:57.779013"
+      },
+      {
+        "id": "aud-srv-1794590101943",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:15:01.941714"
+      },
+      {
+        "id": "aud-srv-1794590107141",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:15:07.140351"
+      },
+      {
+        "id": "aud-srv-1794590215744",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (12 operaciones)",
+        "at": "2026-11-13T12:16:55.726461"
+      },
+      {
+        "id": "aud-srv-1794590303229",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:18:23.213364"
+      },
+      {
+        "id": "aud-srv-1794590306776",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:18:26.760425"
+      },
+      {
+        "id": "aud-srv-1794590342042",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:19:02.034654"
+      },
+      {
+        "id": "aud-srv-1794590406120",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-13T12:20:06.104017"
+      },
+      {
+        "id": "aud-srv-1794707489359",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (0 operaciones)",
+        "at": "2026-11-14T20:51:29.356284"
+      },
+      {
+        "id": "aud-srv-1794707954451",
+        "entity": "sync",
+        "entityId": "mysql-db",
+        "action": "Sincronización MySQL completada (1 operaciones)",
+        "at": "2026-11-14T20:59:14.444892"
+      }
+    ],
+    "outbox": []
+  },
+  "updatedAt": "2026-11-14T20:59:14.444892"
+}
